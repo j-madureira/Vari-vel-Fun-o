@@ -1,0 +1,2 @@
+- Crie uma variável
+- Atribua uma função a essa variável 
